@@ -1268,45 +1268,6 @@ FarmingW:Label('Coming Soon')
 MiscW:Label('DarkHub - Arsenal')
 MiscW:Label('darkhub.xyz')
 
---Scapter stop! uwu
-
-Allowed = {
-'RobloxGui',
-'CoreScript',
-'TopBar',
-'CoreScriptLocalization',
-'RobloxPromptGui',
-'RobloxLoadingGui',
-'PurchasePromptApp',
-'RobloxNetworkPauseNotification',
-'DarkHub',
-'DarkHubLib'
-}
-pcall(function()
-game.CoreGui.ChildAdded:Connect(function(tt)
-    game.Players.LocalPlayer:Kick('Scapter stop owo')
-    wait()
-    while true do end
-end)
-for i,v in pairs(game.CoreGui:GetChildren()) do
-    if not table.find(Allowed,v.Name) then
-        if v.Name == 'DevConsoleMaster' then
-            v:Destroy()
-        else
-            game.Players.LocalPlayer:Kick('Scapter stop owo')
-            wait()
-            while true do end
-        end
-    end
-end
-if hookfunction and rconsoleprint then
-    hookfunction(rconsoleprint,function()
-        game.Players.LocalPlayer:Kick('Scapter stop owo')
-        wait()
-        while true do end 
-    end)    
-end
-end)
 
 
 
