@@ -1,5 +1,5 @@
 	--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////--
-        --Shitty Darkhub Source Code Cracked by (Insanev#3065 & Michael Hales#1707)  Join $$$$ - discord.gg/QRZ35c6ghH
+        --Shitty Darkhub Source Code Cracked by (Insanev#3065, Loris#9999 Michael Hales#1707)  Join $$$$ - discord.gg/QRZ35c6ghH
                                      --RIP DARKHUB, NEVER COMING BACK FUCK OFF--
                            --This is revenge for leaking our hard work, fuck you adam and teax--
 	--//////////////////////////////////////////////////////////////////////////////////////////////////////////////////--
